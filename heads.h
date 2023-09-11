@@ -1,0 +1,27 @@
+#include <iostream>
+#include <windows.h>
+#include <tchar.h>
+#include <fstream>
+#include <string>
+#include <signal.h>
+#include <algorithm>
+#include <vector>
+#include <stdlib.h>
+#include <stdio.h>
+#include <math.h>
+#include <thread>
+#include <iomanip>
+
+using std::endl;
+using std::cout;
+using std::cin;
+using std::string;
+using std::fstream;
+using std::ifstream;
+using std::ofstream;
+using std::cerr;
+using std::clog;
+using std::getline;
+using std::ios;
+using std::setprecision;
+using std::fixed;
